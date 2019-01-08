@@ -9,3 +9,4 @@
 *.rst~
 *.log
 *.raw
+*/**/sym-lib-table
