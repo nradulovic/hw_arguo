@@ -10,3 +10,4 @@
 *.log
 *.raw
 */**/sym-lib-table
+*.fft
