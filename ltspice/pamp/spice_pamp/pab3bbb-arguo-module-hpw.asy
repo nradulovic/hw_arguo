@@ -1,0 +1,36 @@
+Version 4
+SymbolType CELL
+LINE Normal -208 192 -208 -192
+LINE Normal 208 -192 -208 -192
+LINE Normal 208 192 208 -192
+LINE Normal -208 192 208 192
+LINE Normal -80 -96 112 0
+LINE Normal -80 96 112 0
+LINE Normal -80 -96 -80 96
+LINE Normal -80 -48 -112 -48
+LINE Normal -80 48 -112 48
+LINE Normal 144 0 112 0
+PIN -208 -48 LEFT 8
+PINATTR PinName ninv
+PINATTR SpiceOrder 1
+PIN -208 48 LEFT 8
+PINATTR PinName inv
+PINATTR SpiceOrder 2
+PIN -144 192 VLEFT 8
+PINATTR PinName gnd
+PINATTR SpiceOrder 3
+PIN 208 0 RIGHT 8
+PINATTR PinName out
+PINATTR SpiceOrder 4
+PIN 144 -192 VRIGHT 8
+PINATTR PinName pvee
+PINATTR SpiceOrder 5
+PIN -48 -192 VRIGHT 8
+PINATTR PinName pvcc
+PINATTR SpiceOrder 6
+PIN -48 192 VLEFT 8
+PINATTR PinName phvcc
+PINATTR SpiceOrder 7
+PIN 144 192 VLEFT 8
+PINATTR PinName phvee
+PINATTR SpiceOrder 8
