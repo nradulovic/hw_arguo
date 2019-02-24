@@ -28,3 +28,6 @@ PINATTR SpiceOrder 5
 PIN -48 -192 VRIGHT 8
 PINATTR PinName pvcc
 PINATTR SpiceOrder 6
+PIN -48 192 VLEFT 8
+PINATTR PinName prot
+PINATTR SpiceOrder 7
