@@ -29,7 +29,7 @@ output filters.
 Dimensions
 ----------
 
-Max width: 80mm
+Max width: 200mm
 Max height: 100mm
 
 Connections
